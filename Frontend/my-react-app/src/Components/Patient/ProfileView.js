@@ -36,8 +36,8 @@ const ProfileView = () => {
             <TableHead>
               <TableRow>            
                 <TableCell >Name</TableCell>
-                <TableCell >disease&nbsp;(g)</TableCell>
-                <TableCell >Address&nbsp;(g)</TableCell>                
+                <TableCell >disease</TableCell>
+                <TableCell >Address</TableCell>                
               </TableRow>
             </TableHead>
             <TableBody>

@@ -34,7 +34,7 @@ const HealthcareProvider = () => {
             <TableHead>
               <TableRow>            
                 <TableCell>Name</TableCell>
-                <TableCell>Address&nbsp;(g)</TableCell>                
+                <TableCell>Address</TableCell>                
               </TableRow>
             </TableHead>
             <TableBody>
